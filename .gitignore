@@ -1,0 +1,6 @@
+config.json
+output/
+sessions/*.session*
+sessions/*.json
+__pycache__/
+*.pyc
